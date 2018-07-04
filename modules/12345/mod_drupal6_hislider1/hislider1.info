@@ -1,0 +1,9 @@
+; Hi Slider Drupal Module Version 1.0.3 
+; http://hislider.com, 2013 hislider.com All Rights Reserved
+
+name = hislider1
+description = HiSlider 1 Module
+package = Hi Slider Modules
+core = 6.x
+
+files[] = hislider1.module
